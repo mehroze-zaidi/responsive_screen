@@ -1,6 +1,9 @@
 # responsive_screen
 
-A new Flutter project.
+In this repo you'll find how to responsive any screen whether it's for mobile, tablet and desktop.
+I dedicate my work to my beloved flutter developers.
+If you like it, give this repo a star.
+Thanks.
 
 ## Getting Started
 
